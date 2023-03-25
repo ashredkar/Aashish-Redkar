@@ -1,0 +1,13 @@
+Each row represnts characteristic of a single employee . Many categorical data has 
+been coded to mask the data, you dont need to worry about their exact meaning 
+
+satisfaction_level: satisfaction rating on scale of 0 to 1
+last_evaluation: Evaluation rating on scale of 0 to 1
+number_project: Number of projects employee is involved with
+average_montly_hours: Average monthly hrs clocked in last quarte
+time_spend_company: Time spent in the company ( in years)
+Work_accident: Work Accident flag
+left: Whether that employee has quit or not ( 1= Yes , 0 = No). This is the target variable
+promotion_last_5years: Whether the employee was promoted in last 5 years (1=Yes, 0=No)
+sales: Which sales category was his role in, the category sales represents generic sales profile
+salary: Category of the salary
